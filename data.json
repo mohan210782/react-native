@@ -1,5 +1,5 @@
 [
-    {"id":"1","fruit_name":"Apple","details":"detail of apple" },
+    {"id":"1","fruit_name":"Apple","dt":[{"id":"1","fruit_namee":"Apricot","detailse":"detail of Apricot"},{"id":"2","fruit_name":"Avocado","details":"detail of Avocado" }],details":"detail of apple" },
     {"id":"2","fruit_name":"Apricot","details":"detail of Apricot" },
     {"id":"3","fruit_name":"Avocado","details":"detail of Avocado" },
     {"id":"4","fruit_name":"Banana","details":"detail of Banana" },
