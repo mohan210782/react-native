@@ -1,4 +1,4 @@
-{
+[
     {"id":"1","fruit_name":"Apple","details":"detail of apple" },
     {"id":"2","fruit_name":"Apricot"},
     {"id":"3","fruit_name":"Avocado"},
@@ -21,4 +21,4 @@
     {"id":"20","fruit_name":"Guava"},
     {"id":"21","fruit_name":"Honeyberry"},
     {"id":"22","fruit_name":"Huckleberry"}
-}
+]
