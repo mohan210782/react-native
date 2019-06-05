@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "type": "venues",
+      "id": "nb",
+      "attributes": {
+        "name": "Barasti Beach",
+        "description": "Barasti Beach is lotacated in the awesome barasti beach",
+        "price_range": "$$$",
+        "opening_hours": "10:30-12:40/16:00-2:00",
+        "organization": {
+          "id": "GD",
+          "legal_name": "Barasti",
+          "brand": "Barasti"
+        },
+        "place": {
+          "address": "Le Meridien Mina Seyahi Beach Resort & Marina, Dubai Marina - Dubai - United Arab Emirates",
+          "latitude": "25.092648",
+          "location": [
+            "Marina Bay",
+            "Dubai",
+            "Arab Emirate United"
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 1,
+    "cursor": {
+      "current": 1,
+      "prev": null,
+      "next": null,
+      "count": 25
+    }
+  }
+} 
