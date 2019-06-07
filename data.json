@@ -1,7 +1,7 @@
 {
   "title": "Welcome to our office",
   "description": "Your smart office assistant",
-  "Fruit": [
+  "fruits": [
     {"id":"1","fruit_name":"Apple","details":"detail of apple" },
     {"id":"2","fruit_name":"Apricot","details":"detail of Apricot" },
     {"id":"3","fruit_name":"Avocado","details":"detail of Avocado" },
