@@ -1,4 +1,4 @@
-{
+[{
   "title": "Welcome to our office",
   "description": "Your smart office assistant",
   "fruits": [
@@ -24,4 +24,4 @@
     {"id":"20","fruit_name":"Guava","details":"detail of Guava" },
     {"id":"21","fruit_name":"Honeyberry","details":"detail of Honeyberry" },
     {"id":"22","fruit_name":"Huckleberry","details":"detail of Huckleberry" }
-]}
+]}]
